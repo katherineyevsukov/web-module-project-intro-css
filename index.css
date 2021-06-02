@@ -41,7 +41,7 @@ blockquote, q {
     padding: 0;
     margin: 0;
     max-width: 100%;
-    border: 1px solid grey;
+    /*border: 1px solid grey;*/
 }
 
 /* General Styles */
@@ -126,7 +126,8 @@ nav a{
      text-align: center;
      background-color: #DDB9A3;
      color: #fff;
-     margin: 0 2%;
+     margin:2%;
+     padding-top: 0.01%;
  }
 
  /*section with cartoons and info */
@@ -156,7 +157,7 @@ nav a{
  /* background image section */
 
  .heroImg{
-     height: 50vh;
+     height: 30vh;
      background-image: url('assets/footer_img.jpg');
      background-repeat: no-repeat;
      background-size: cover;
