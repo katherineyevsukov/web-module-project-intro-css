@@ -115,7 +115,15 @@ nav a{
     width: 45%;
     margin-left: 3%;
     position: absolute;
-    top: 40%;
+    top: 20%;
+ }
+
+ .yosemite-description{
+     text-align: center;
+     background-color: #DDB9A3;
+     color: #fff;
+     margin: 0 2%;
+
  }
  
  /* background image section */
@@ -126,4 +134,8 @@ nav a{
      background-repeat: no-repeat;
      background-size: cover;
      background-position: top;
+ }
+
+ footer {
+     background-color: #F9E7DC;
  }
