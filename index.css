@@ -118,12 +118,39 @@ nav a{
     top: 20%;
  }
 
+ .right h2, p{
+     margin-top: 5%;
+ }
+/*main text section */
  .yosemite-description{
      text-align: center;
      background-color: #DDB9A3;
      color: #fff;
      margin: 0 2%;
+ }
 
+ /*section with cartoons and info */
+ 
+ .information {
+     text-align: center;
+ }
+ .information p{
+    width:18%;
+    font-size: 0.85rem;
+    text-align: center;
+    margin: 0 41%
+ }
+
+ .information p span{
+     font-weight: bold;
+ }
+
+ .information img{
+    width: 9%;   
+ }
+
+ .entrance-fee{
+     margin-top: 6%;
  }
  
  /* background image section */
